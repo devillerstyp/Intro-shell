@@ -1,4 +1,3 @@
-vim bonjour.sh
 #!/bin/bash
 prenom='Styp'
 
