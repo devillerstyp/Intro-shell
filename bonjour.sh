@@ -1,5 +1,5 @@
 #!/bin/bash
-prenom='Styp'
+read prenom
 
 echo "Bonjour $prenom"
 
