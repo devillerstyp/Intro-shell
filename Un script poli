@@ -1,3 +1,4 @@
 #!/bin/bash
-read prenom
-echo " bonjour $prenom" 
+read -p 'Entrez votre surnom : ' surnom
+
+echo "Bonjour $surnom !"
